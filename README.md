@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-本项目借鉴于https://github.com/j3ers3/Cscan/tree/master,大学生练手项目
+本项目借鉴于https://github.com/j3ers3/Cscan/tree/master  		大学生练手项目
 
 用于扫描C段下的所有端口，以及ip上面所有的历史域名、指纹、标题、关键字等信息
 
