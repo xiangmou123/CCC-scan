@@ -2,13 +2,13 @@
 
 ## 项目介绍
 
-本项目借鉴于https://github.com/j3ers3/Cscan/tree/master
+本项目借鉴于https://github.com/j3ers3/Cscan/tree/master,大学生练手项目
 
 用于扫描C段下的所有端口，以及ip上面所有的历史域名、指纹、标题、关键字等信息
 
-![image-20240907134546312](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240907134546312.png)
+![../picture/1.png](C:\Users\Administrator\Desktop\CCC-scan\picture\1.png)
 
-![image-20240907134522800](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240907134522800.png)
+![](C:\Users\Administrator\Desktop\CCC-scan\picture\2.png)
 
 ## 改进之处
 
