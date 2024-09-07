@@ -6,9 +6,9 @@
 
 用于扫描C段下的所有端口，以及ip上面所有的历史域名、指纹、标题、关键字等信息
 
-![../picture/1.png](C:\Users\Administrator\Desktop\CCC-scan\picture\1.png)
+![](picture\1.png)
 
-![](C:\Users\Administrator\Desktop\CCC-scan\picture\2.png)
+![](picture\2.png)
 
 ## 改进之处
 
